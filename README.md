@@ -7,7 +7,7 @@
 
 - 🤖 **Técnico en Ingeniería de Software con Inteligencia Artificial**
 - 💻 **Desarrollador Front-End**
-- 🆕 **Apasionado por el aprendizaje continuo**
+- 🆕 **Aprendiendo continuamente**
 - 👾 **Explorando el desarrollo Backend**
   
 ## Proyectos recientes
