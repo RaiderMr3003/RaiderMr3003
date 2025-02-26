@@ -3,14 +3,14 @@
     </div>
     <img src="https://i.seadn.io/gae/NZRskdnTxMQlqUnSSY7oKX8rBoWmL3MY1KGoavoAPLxWOJlych3FKUgOxohEgQWk-JMngowHH34c7l8RDn2pCZ-mjlHFXxJNruJu?auto=format&dpr=1&w=1000" style="width:100%;">
     
-    ## Sobre mí
+## Sobre mí
     
-    - 🤖 **Técnico en Ingeniería de Software con Inteligencia Artificial**
-    - 💻 **Desarrollador Front-End**
-    - 🆕 **Aprendiendo continuamente**
-    - 👾 **Explorando el desarrollo Backend**
+- 🤖 **Técnico en Ingeniería de Software con Inteligencia Artificial**
+- 💻 **Desarrollador Front-End**
+- 🆕 **Aprendiendo continuamente**
+- 👾 **Explorando el desarrollo Backend**
       
-    ## Proyectos recientes
+## Proyectos recientes
    
    <div align="center">
       <table align="center">
