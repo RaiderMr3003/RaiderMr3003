@@ -5,7 +5,7 @@
     
 ## Sobre mí
     
-- 🤖 **Técnico en Ingeniería de Software con Inteligencia Artificial**
+- 🤖 **Ingeniero de Software**
 - 💻 **Desarrollador Front-End**
 - 🆕 **Aprendiendo continuamente**
 - 👾 **Explorando el desarrollo Backend**
