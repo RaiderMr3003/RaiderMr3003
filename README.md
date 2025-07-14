@@ -6,9 +6,9 @@
 ## Sobre mí
     
 - 🤖 **Ingeniero de Software**
-- 💻 **Desarrollador Front-End**
+- 💻 **Desarrollador Full-Stack**
 - 🆕 **Aprendiendo continuamente**
-- 👾 **Explorando el desarrollo Backend**
+- 👾 **Desarrollando el Futuro**
       
 ## Proyectos recientes
    
