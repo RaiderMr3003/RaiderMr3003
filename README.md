@@ -6,7 +6,7 @@
 ## Sobre mí
     
 - 🤖 **Ingeniero de Software**
-- 💻 **Desarrollador Full-Stack**
+- 💻 **Desarrollador Full-Stack Jr.**
 - 🆕 **Aprendiendo continuamente**
 - 👾 **Desarrollando el Futuro**
       
