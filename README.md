@@ -16,6 +16,20 @@
       <table align="center">
         <tr>
           <td width="25%" align="center">
+            <h3>Cinerama</h3>
+            <div>
+              <a href="https://github.com/RaiderMr3003/Cinerama" target="_blank">
+                <img src="https://cinerama-seven.vercel.app/og-cinerama.jpg" width="400" alt="Cinerama">
+              </a>
+              <p>
+                <a href="https://github.com/RaiderMr3003/Cinerama" target="_blank">
+                  <img src="https://img.shields.io/badge/Ver%20Código-ff9?style=for-the-badge&logo=github&logoColor=black">
+                </a>
+              </p>
+              <p><strong>Cinerama</strong> – Web de películas creada con <strong>Astro</strong> y <strong>TMDB API</strong>. Consulta estrenos con información de cada film.</p>
+            </div>
+          </td>
+          <td width="25%" align="center">
             <h3>AutoViaje</h3>
             <div>
               <a href="https://github.com/RaiderMr3003/AutoViaje" target="_blank">
