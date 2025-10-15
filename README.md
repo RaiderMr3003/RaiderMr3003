@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">Hola, soy <a href="https://raidermr-portfolio.netlify.app/es">Máximo</a> 👋</h1>
+    <h1 align="center">Hola, soy <a href="https://raidermr-portfolio.netlify.app/es" target="_blank">Máximo</a> 👋</h1>
     </div>
     <img src="https://i.seadn.io/gae/NZRskdnTxMQlqUnSSY7oKX8rBoWmL3MY1KGoavoAPLxWOJlych3FKUgOxohEgQWk-JMngowHH34c7l8RDn2pCZ-mjlHFXxJNruJu?auto=format&dpr=1&w=1000" style="width:100%;">
     
