@@ -67,8 +67,9 @@
     
    <p align="center">
     <a href="https://github.com/RaiderMr3003">
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaiderMr3003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaiderMr3003&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaiderMr3003&theme=react"/>
+      <img height="200em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RaiderMr3003&langs_count=6&layout=compact&theme=react&border_color=00000000"/>
+      <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiderMr3003&theme=react"/>
     </a>
     </p>
     
