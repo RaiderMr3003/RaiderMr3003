@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">Hola, soy <a href="https://raidermr-portfolio.netlify.app/es" target="_blank">Máximo</a> 👋</h1>
+    <h1 align="center">Hola, soy <a href="https://raidermr-portfolio.netlify.app/es" target="_blank" rel="noreferrer noopener">Máximo</a> 👋</h1>
     </div>
     <img src="https://i.seadn.io/gae/NZRskdnTxMQlqUnSSY7oKX8rBoWmL3MY1KGoavoAPLxWOJlych3FKUgOxohEgQWk-JMngowHH34c7l8RDn2pCZ-mjlHFXxJNruJu?auto=format&dpr=1&w=1000" style="width:100%;">
     
@@ -18,11 +18,11 @@
           <td width="25%" align="center">
             <h3>Cinerama</h3>
             <div>
-              <a href="https://github.com/RaiderMr3003/Cinerama" target="_blank">
+              <a href="https://github.com/RaiderMr3003/Cinerama" target="_blank" rel="noreferrer noopener">
                 <img src="https://cinerama-seven.vercel.app/og-cinerama.jpg" width="400" alt="Cinerama">
               </a>
               <p>
-                <a href="https://github.com/RaiderMr3003/Cinerama" target="_blank">
+                <a href="https://github.com/RaiderMr3003/Cinerama" target="_blank" rel="noreferrer noopener">
                   <img src="https://img.shields.io/badge/Ver%20Código-ff9?style=for-the-badge&logo=github&logoColor=black">
                 </a>
               </p>
@@ -32,11 +32,11 @@
           <td width="25%" align="center">
             <h3>AutoViaje</h3>
             <div>
-              <a href="https://github.com/RaiderMr3003/AutoViaje" target="_blank">
+              <a href="https://github.com/RaiderMr3003/AutoViaje" target="_blank" rel="noreferrer noopener">
                 <img src="https://www.buk.cl/hubfs/procesos-de-gestion-documental.webp" width="400" alt="Bot de Discord con Python">
               </a>
               <p>
-                <a href="https://github.com/RaiderMr3003/AutoViaje" target="_blank">
+                <a href="https://github.com/RaiderMr3003/AutoViaje" target="_blank" rel="noreferrer noopener">
                   <img src="https://img.shields.io/badge/Ver%20Código-ff9?style=for-the-badge&logo=github&logoColor=black">
                 </a>
               </p>
@@ -46,11 +46,11 @@
           <td width="25%" align="center">
             <h3>RaidersitoV1.0</h3>
             <div>
-              <a href="https://github.com/RaiderMr3003/RaidersitoV1.0" target="_blank">
+              <a href="https://github.com/RaiderMr3003/RaidersitoV1.0" target="_blank" rel="noreferrer noopener">
                 <img src="https://miro.medium.com/v2/resize:fit:1400/1*pgOjBS0d_mc10JJG8yKGvQ.png" width="400" alt="Bot de Discord con Python">
               </a>
               <p>
-                <a href="https://github.com/RaiderMr3003/RaidersitoV1.0" target="_blank">
+                <a href="https://github.com/RaiderMr3003/RaidersitoV1.0" target="_blank" rel="noreferrer noopener">
                   <img src="https://img.shields.io/badge/Ver%20Código-ff9?style=for-the-badge&logo=github&logoColor=black">
                 </a>
               </p>
