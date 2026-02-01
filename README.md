@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hola, soy <a href="https://raidermr-portfolio.netlify.app/es" target="_blank" rel="noreferrer noopener">Máximo</a> 👋</h1>
     </div>
-    <img src="https://i.seadn.io/gae/NZRskdnTxMQlqUnSSY7oKX8rBoWmL3MY1KGoavoAPLxWOJlych3FKUgOxohEgQWk-JMngowHH34c7l8RDn2pCZ-mjlHFXxJNruJu?auto=format&dpr=1&w=1000" style="width:100%;">
+    <img src="https://wallpapers.com/images/hd/3840x1080-4k-purple-mountains-ljemerrax5iulua3.jpg" style="width:100%;">
     
 ## Sobre mí
     
@@ -15,6 +15,20 @@
    <div align="center">
       <table align="center">
         <tr>
+          <td width="25%" align="center">
+            <h3>AutoViaje (Laravel)</h3>
+            <div>
+              <a href="https://github.com/RaiderMr3003/AutoViaje-Laravel" target="_blank" rel="noreferrer noopener">
+                <img src="https://laravel.com/img/logomark.min.svg" width="100" alt="AutoViaje Laravel">
+              </a>
+              <p>
+                <a href="https://github.com/RaiderMr3003/AutoViaje-Laravel" target="_blank" rel="noreferrer noopener">
+                  <img src="https://img.shields.io/badge/Ver%20Código-ff9?style=for-the-badge&logo=github&logoColor=black">
+                </a>
+              </p>
+              <p><strong>AutoViaje (Laravel)</strong> – Versión evolucionada del sistema de autorizaciones. Creado con <strong>Laravel</strong>.</p>
+            </div>
+          </td>
           <td width="25%" align="center">
             <h3>Cinerama</h3>
             <div>
@@ -30,24 +44,24 @@
             </div>
           </td>
           <td width="25%" align="center">
-            <h3>AutoViaje</h3>
+            <h3>AutoViaje (Legacy)</h3>
             <div>
               <a href="https://github.com/RaiderMr3003/AutoViaje" target="_blank" rel="noreferrer noopener">
-                <img src="https://www.buk.cl/hubfs/procesos-de-gestion-documental.webp" width="400" alt="Bot de Discord con Python">
+                <img src="https://www.buk.cl/hubfs/procesos-de-gestion-documental.webp" width="400" alt="AutoViaje Core">
               </a>
               <p>
                 <a href="https://github.com/RaiderMr3003/AutoViaje" target="_blank" rel="noreferrer noopener">
                   <img src="https://img.shields.io/badge/Ver%20Código-ff9?style=for-the-badge&logo=github&logoColor=black">
                 </a>
               </p>
-              <p>Sistema de generación de <strong>Autorizaciones de Viaje</strong> - Sistema creado para la Notaria Delgado, Peru.</p>
+              <p>Sistema original de <strong>Autorizaciones de Viaje</strong> - Desarrollado en PHP puro para la Notaria Delgado, Perú.</p>
             </div>
           </td>
           <td width="25%" align="center">
             <h3>RaidersitoV1.0</h3>
             <div>
               <a href="https://github.com/RaiderMr3003/RaidersitoV1.0" target="_blank" rel="noreferrer noopener">
-                <img src="https://miro.medium.com/v2/resize:fit:1400/1*pgOjBS0d_mc10JJG8yKGvQ.png" width="400" alt="Bot de Discord con Python">
+                <img src="https://miro.medium.com/v2/resize:fit:1400/1*pgOjBS0d_mc10JJG8yKGvQ.png" width="400" alt="Bot de Discord">
               </a>
               <p>
                 <a href="https://github.com/RaiderMr3003/RaidersitoV1.0" target="_blank" rel="noreferrer noopener">
@@ -60,6 +74,7 @@
         </tr>
       </table>
     </div>
+
     
   <br>
     
